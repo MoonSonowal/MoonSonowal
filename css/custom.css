@@ -120,3 +120,16 @@
 .hr-custom{
   border-top: 1px dashed grey;
 }
+
+.modal-full {
+    min-width: 100%;
+    margin: 0;
+}
+
+.modal-full .modal-content {
+    min-height: 100vh;
+}
+
+a, a:hover,a:visited, a:focus {
+    text-decoration:none;
+}
